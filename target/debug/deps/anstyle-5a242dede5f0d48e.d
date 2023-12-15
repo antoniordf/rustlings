@@ -1,0 +1,10 @@
+/Users/antoniofurtado/Desktop/Online Learning/rustlings/target/debug/deps/anstyle-5a242dede5f0d48e.rmeta: /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/lib.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/macros.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/color.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/effect.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/reset.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/style.rs
+
+/Users/antoniofurtado/Desktop/Online Learning/rustlings/target/debug/deps/anstyle-5a242dede5f0d48e.d: /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/lib.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/macros.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/color.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/effect.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/reset.rs /Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/style.rs
+
+/Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/lib.rs:
+/Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/macros.rs:
+/Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/color.rs:
+/Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/effect.rs:
+/Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/reset.rs:
+/Users/antoniofurtado/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.3/src/style.rs:
